@@ -88,5 +88,5 @@ The script will:
 - Adjust **deadband** to stop constant hunting around target (e.g. ±5°).  
 
 ---
-### Some Result from MATALB
+### Result from MATALB
 ![Result Graphs](images/Graphs.jpg)
