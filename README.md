@@ -72,7 +72,7 @@ The script will:
 
 ## 3. How to Run
 
-1. **Wire the circuit** according to the table above.  
+1. **Wire the circuit** according to the table above and Wiring Diagram.  
 2. **Flash ESP32** with `esp32_pid_servo.ino`.  
 3. **Open MATLAB** and run `esp32_live_plot.m`. 
 4. Watch the real-time plot as the motor follows the step sequence.  
