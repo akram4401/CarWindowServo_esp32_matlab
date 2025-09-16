@@ -75,9 +75,8 @@ The script will:
 1. **Wire the circuit** according to the table above.  
 2. **Flash ESP32** with `esp32_pid_servo.ino`.  
 3. **Open MATLAB** and run `esp32_live_plot.m`. 
-4. Change the COM port on MATLAB code the same as the esp32 e.g "COM5". 
-5. Watch the real-time plot as the motor follows the step sequence.  
-6. Adjust PID and deadband values from MATLAB until the response is stable.  
+4. Watch the real-time plot as the motor follows the step sequence.  
+5. Adjust PID and deadband values from MATLAB until the response is stable.  
 
 ---
 
