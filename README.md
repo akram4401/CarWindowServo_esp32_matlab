@@ -85,7 +85,7 @@ The script will:
 - Start with only **P** → motor follows setpoint but may oscillate.  
 - Add small **I** → removes offset error.  
 - Add small **D** → reduces overshoot.  
-- Adjust **deadband** to stop constant hunting around target (e.g. ±5°).  
+- Adjust **deadband** to stop constant hunting around target (e.g. ±2°).  
 
 ---
 ### Result from MATALB
